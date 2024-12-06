@@ -162,23 +162,3 @@ header .author img{
     opacity: 1;
 }
 
-                                /* M  E  D  I  A  -  Q  U  E  R  Y */
-
-@media screen and (max-width: 1023px) {
-    
-    .soda{
-        width: 400px;
-    }
-}
-@media screen and (max-width: 767px) {
-    .soda{
-        width: 250px;
-    }
-    header img{
-        display: none;
-    }
-    header .author{
-        width: 100%;
-    }
-
-}
