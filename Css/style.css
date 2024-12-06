@@ -32,7 +32,7 @@ header{
     display: flex;
     justify-content: space-between;
     height: 0px;
-    flex-wrap: wrap;
+    
 }
 header h1{
     font-family: "Karantina", system-ui;
